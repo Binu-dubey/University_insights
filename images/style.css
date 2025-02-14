@@ -1,0 +1,30 @@
+/* Smooth menu transition */
+#mobile-menu {
+    transition: all 0.3s ease-in-out;
+}
+
+/* Diagonal cut effect matching hero section */
+#mobile-menu::after {
+    content: '';
+    position: absolute;
+    bottom: -20px;
+    left: 0;
+    width: 100%;
+    height: 40px;
+    
+}
+.text-burgundy-500 {
+    color: #9e1c1c;
+}
+.bg-burgundy-500 {
+    background-color: #9e1c1c;
+}
+.hover\:bg-burgundy-600:hover {
+    background-color: #7a1616;
+}
+.text-burgundy-500 {
+    color: #9e1c1c;
+}
+.bg-burgundy-500 {
+    background-color: #9e1c1c;
+}
