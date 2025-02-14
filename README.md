@@ -38,7 +38,7 @@ Open index.html in your browser to view the website.
 
 Demo
 
-https://spectacular-heliotrope-e84e89.netlify.app/
+https://universityinsights09.netlify.app/
 
 Contributing
 
